@@ -27,4 +27,5 @@ Le projet comprend les fichiers principaux suivants :
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone git@github.com:MarieRobertson/phaser-game-robertson-marie.git
+   git clone git@github.com:MarieRobertson/phaser-game.git
+   lancer le projet avec la fonction goLive de votre editeur de code
